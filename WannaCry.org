@@ -10,6 +10,20 @@ auf.
 ** Attribution
    Verschiedene Leute versuchen herauszufinden, woher die Schadsoftware
    stammt. Folgende Hinweise gibt es bisher.
+
+   Sean Sullivan glaubt, dass der Code von einem Neuling geschrieben wurde. Er
+   schließt das aus dem Fakt, dass eine Online-Speicherseite benutzt wurde.
+   #+BEGIN_QUOTE
+   Sean Sullivan, security adviser at F-Secure, a Helsinki-based ­cybersecurity
+   company, said the WannaCry software appeared to have been written by a
+   neophyte. He noted, for instance, that one component of the ransom-payment
+   system involved a popular online-storage website, which could make its users
+   possible to trace.
+
+   “These guys are clearly using rudimentary stuff that beginners were doing
+   several years ago,” Mr Sullivan added.
+#+END_QUOTE
+   Siehe [[http://www.theaustralian.com.au/business/wall-street-journal/hunt-for-patient-zero-may-expose-attacker/news-story/3efe9e52d04a1e83400b139328567caf][Hunt for patient zero may expose attacker]]
 *** Nordkorea
     Einige Forscher [[http://www.darkreading.com/attacks-breaches/researchers-investigate-possible-connection-between-wannacry-and-north-korean-hacker-group/d/d-id/1328885][vermuten]] die Lazarus Group, eine Gruppe aus Nordkorea,
     hinter den Angriffen. Sie fanden [[https://twitter.com/msuiche/status/864179805402607623][Gleichheiten im Code]]. Der [[https://securelist.com/blog/research/78431/wannacry-and-lazarus-group-the-missing-link/][Blogpost]]
