@@ -2,3 +2,10 @@
 
 Anfang des Monats Mai 2017 tauchte eine Schadsoftware mit dem Namen [[https://de.wikipedia.org/wiki/WannaCry][WannaCry]]
 auf. Untenstehende Links geben weitere Informationen.
+** Attribution
+   Verschiedene Leute versuchen herauszufinden, woher die Schadsoftware
+   stammt. Folgende Hinweise gibt es bisher.
+*** Nordkorea
+    Einige Forscher [[http://www.darkreading.com/attacks-breaches/researchers-investigate-possible-connection-between-wannacry-and-north-korean-hacker-group/d/d-id/1328885][vermuten]] die Lazarus Group, eine Gruppe aus Nordkorea,
+    hinter den Angriffen. Sie fanden [[https://twitter.com/msuiche/status/864179805402607623][Gleichheiten im Code]]. Der [[https://securelist.com/blog/research/78431/wannacry-and-lazarus-group-the-missing-link/][Blogpost]]
+    beschreibt nochmals den Code und Hintergründe der Lazarus Group.
