@@ -1,0 +1,4 @@
+* WannaCry
+
+Anfang des Monats Mai 2017 tauchte eine Schadsoftware mit dem Namen [[https://de.wikipedia.org/wiki/WannaCry][WannaCry]]
+auf. Untenstehende Links geben weitere Informationen.
