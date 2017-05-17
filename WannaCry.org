@@ -12,6 +12,16 @@ auf.
 
 ** Microsoft
    Nach einem [[https://www.theregister.co.uk/2017/05/16/microsoft_stockpiling_flaws_too/][Artikel von The Register]] wurden die Aktualisierungen für verschiedene Windows-Versionen, u.a. auch Windows XP, bereits Mitte Februar 2017 signiert.
+
+** Bitcoin
+   Es gibt drei Bitcoin-Wallets, an die das Geld zu zahlen ist. Üblich wäre,
+   dass es für jeden »Kunden« eine Wallet gäbe. Auf Twitter [[https://twitter.com/threatintel/status/864504502682099716][schrieb]]
+   [[https://twitter.com/threatintel][@threatintel]], dass die Schadsoftware derartige Routinen vorgesehen
+   hat. Jedoch gibt es einen Bug, der dies verhindert (https://twitter.com/threatintel/status/864523730210443264):
+#+BEGIN_QUOTE
+It tries to run @WanaDecryptor@.exe to obtain the new BTC address, but
+@WanaDecryptor@.exe isn't copied from u.wnry until later
+#+END_QUOTE
 ** Attribution
    Verschiedene Leute versuchen herauszufinden, woher die Schadsoftware
    stammt. Folgende Hinweise gibt es bisher.
