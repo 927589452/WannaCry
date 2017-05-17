@@ -7,6 +7,8 @@ auf.
  - *Betroffene Betriebssysteme*: Alle Windowssysteme vor Windows 10, die nicht
    gegen MS-17-010 gepacht sind.
  - *Geldbetrag*: Es sind zwischen 300 und 600 US-Dollar in Bitcoin zu zahlen.
+** Killswitch
+   Die Schadsoftware in der Originalversion fragte nach einer Domain. Solange es diese nicht gab, verbreitete sich die Software weiter. Der Forscher mit dem Namen [[https://arstechnica.com/information-technology/2017/05/wanna-decryptor-kill-switch-analysis/][MalwareTechBlog registrierte diese Domain und die Angriffe wurden gestoppt]].
 ** Attribution
    Verschiedene Leute versuchen herauszufinden, woher die Schadsoftware
    stammt. Folgende Hinweise gibt es bisher.
