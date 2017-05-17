@@ -19,3 +19,4 @@ auf.
 ** Linksammlung
    - [[https://blog.didierstevens.com/2017/05/14/quickpost-wannacrys-mutex-is-mswinzonescachecountermutexa0-digit-zero-at-the-end/][Quickpost: WannaCry’s Mutex Is MsWinZonesCacheCounterMutexA0 (Digit Zero At The End)]]
    - [[https://pbs.twimg.com/media/C_3vTVVXYAIm3QY.jpg:large][Timeline der Ransomware-Varianten]] (aus einem [[https://twitter.com/mikko/status/864110940781936641][Tweet von @mikko]])
+   - [[https://www.hybrid-analysis.com/sample/24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c?environmentId=100][Analyse der Schadsoftware (Aufruf in einer Windowssandbox)]]
