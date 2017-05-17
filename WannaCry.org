@@ -7,6 +7,11 @@ auf.
  - *Betroffene Betriebssysteme*: Alle Windowssysteme vor Windows 10, die nicht
    gegen MS-17-010 gepacht sind.
  - *Geldbetrag*: Es sind zwischen 300 und 600 US-Dollar in Bitcoin zu zahlen.
+** Killswitch
+   Die Schadsoftware in der Originalversion fragte nach einer Domain. Solange es diese nicht gab, verbreitete sich die Software weiter. Der Forscher mit dem Namen [[https://arstechnica.com/information-technology/2017/05/wanna-decryptor-kill-switch-analysis/][MalwareTechBlog registrierte diese Domain und die Angriffe wurden gestoppt]].
+
+** Microsoft
+   Nach einem [[https://www.theregister.co.uk/2017/05/16/microsoft_stockpiling_flaws_too/][Artikel von The Register]] wurden die Aktualisierungen für verschiedene Windows-Versionen, u.a. auch Windows XP, bereits Mitte Februar 2017 signiert.
 ** Attribution
    Verschiedene Leute versuchen herauszufinden, woher die Schadsoftware
    stammt. Folgende Hinweise gibt es bisher.
@@ -31,3 +36,6 @@ auf.
 ** Linksammlung
    - [[https://blog.didierstevens.com/2017/05/14/quickpost-wannacrys-mutex-is-mswinzonescachecountermutexa0-digit-zero-at-the-end/][Quickpost: WannaCry’s Mutex Is MsWinZonesCacheCounterMutexA0 (Digit Zero At The End)]]
    - [[https://pbs.twimg.com/media/C_3vTVVXYAIm3QY.jpg:large][Timeline der Ransomware-Varianten]] (aus einem [[https://twitter.com/mikko/status/864110940781936641][Tweet von @mikko]])
+   - [[https://www.hybrid-analysis.com/sample/24d004a104d4d54034dbcffc2a4b19a11f39008a575aa614ea04703480b1022c?environmentId=100][Analyse der Schadsoftware (Aufruf in einer Windowssandbox)]]
+   - [[https://www.cert.at/services/blog/20170514232126-2007.html][CERT.at: Ein paar Gedanken zu WannaCry]]
+   - [[http://blog.koehntopp.info/index.php/1726-handling-wannacrypt-a-few-words-about-technical-debt/][Handling Wannacrypt – a few words about technical debt]]
