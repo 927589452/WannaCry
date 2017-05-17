@@ -7,6 +7,12 @@ auf.
  - *Betroffene Betriebssysteme*: Alle Windowssysteme vor Windows 10, die nicht
    gegen MS-17-010 gepacht sind.
  - *Geldbetrag*: Es sind zwischen 300 und 600 US-Dollar in Bitcoin zu zahlen.
+
+Der Ausbruch startete am Freitag, dem 12. Mai 2017. Der Wurm verbreitete sich
+und versah die verschlüsselten Dateien mit der Endung ~.WNCRYT~. Die Opfer
+sollten 300 US-Dollar per Bitcoin zahlen, um ihre Daten wieder zu erlangen. Nach
+Ablauf einer Frist sind 600 US-Dollar fällig. Verfällt auch diese, werden die
+Daten gelöscht.
 ** Killswitch
    Die Schadsoftware in der Originalversion fragte nach einer Domain. Solange es diese nicht gab, verbreitete sich die Software weiter. Der Forscher mit dem Namen [[https://arstechnica.com/information-technology/2017/05/wanna-decryptor-kill-switch-analysis/][MalwareTechBlog registrierte diese Domain und die Angriffe wurden gestoppt]].
 
