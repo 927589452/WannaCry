@@ -37,6 +37,17 @@ It tries to run @WanaDecryptor@.exe to obtain the new BTC address, but
    Es gibt verschiedene Versuche, die Daten ohne Mithilfe der Autoren der
    Software zu entschlüsseln.
 
+*** Entschlüsselung unter Windows XP
+    Die Autoren der Software haben dafür gesorgt, dass Informationen zum
+    Schlüssel gelöcsht werden. Jedoch funktionieren diese Methoden unter Windows
+    XP nicht. Dort verbleiben unter Umständen die verwendeten Primzahlen im
+    Speicher erhalten. Die Software [[https://github.com/aguinet/wannakey][wannakey]] versucht, diese zu
+    extrahieren. ([[https://twitter.com/adriengnt/status/865168794586632192][dazugehöriger Tweet]])
+
+*** wanafork
+    [[https://github.com/odzhan/wanafork/][wanafork]] ist eine Software, die Dateien ver- und entschlüsseln
+    kann. Angeblich lässt sich diese in Verbindung mit [[https://github.com/aguinet/wannakey][wannakey]] verwenden.
+
 *** wanadecrypt
     [[https://github.com/gentilkiwi/wanadecrypt][wanadecrypt]] ist eine Software, die Dateien entschlüsseln kann. Dazu wird
     jedoch der private Schlüssel benötigt. Diesen gibt es nur gegen Bezahlung.
