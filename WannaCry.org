@@ -33,6 +33,13 @@ It tries to run @WanaDecryptor@.exe to obtain the new BTC address, but
 @WanaDecryptor@.exe isn't copied from u.wnry until later
 #+END_QUOTE
 
+** Entschlüsselung der Daten
+   Es gibt verschiedene Versuche, die Daten ohne Mithilfe der Autoren der
+   Software zu entschlüsseln.
+
+*** wanadecrypt
+    [[https://github.com/gentilkiwi/wanadecrypt][wanadecrypt]] ist eine Software, die Dateien entschlüsseln kann. Dazu wird
+    jedoch der private Schlüssel benötigt. Diesen gibt es nur gegen Bezahlung.
 ** Tor
    Vermutlich im Zusammenhang mit den Ermittlungen wurden wurden diverse
    Tor-Server beschlagnahmt. Auf der Mailingliste [[https://lists.torproject.org/cgi-bin/mailman/listinfo/tor-relays][tor-relays]] schrieb eine
