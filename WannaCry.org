@@ -65,6 +65,12 @@ It tries to run @WanaDecryptor@.exe to obtain the new BTC address, but
     Laut einem [[https://www.forbes.com/sites/thomasbrewster/2017/05/17/wannacry-ransomware-hit-real-medical-devices/#6f4f639c425c][Bericht von Forbes]] gab es in einem US-amerikanischen Krankenhaus
     einen Befall mit der Schadsoftware. Das betraf ein Gerät von Bayer
     Medrad. Ein Sprecher bestätigte, dass es bis dato zwei Meldungen gibt.
+*** Siemens
+    Siemens hat das Advisory
+    [[https://www.siemens.com/cert/pool/cert/siemens_security_advisory_ssa-832636.pdf][SSA-832636: SMBv1 Vulnerabilities in Magnetic Resonance Products from
+    Siemens Healthineers]] herausgegeben. Darin beschreiben sie, dass alle
+    Versionen des MAGNETOM MRI Systems betroffen sind und an einer Lösung
+    gearbeitet wird. ([[https://twitter.com/ProductCERT/status/864584250376454144][dazugehöriger Tweet]])
 ** Linksammlung
    - [[https://blog.didierstevens.com/2017/05/14/quickpost-wannacrys-mutex-is-mswinzonescachecountermutexa0-digit-zero-at-the-end/][Quickpost: WannaCry’s Mutex Is MsWinZonesCacheCounterMutexA0 (Digit Zero At The End)]]
    - [[https://pbs.twimg.com/media/C_3vTVVXYAIm3QY.jpg:large][Timeline der Ransomware-Varianten]] (aus einem [[https://twitter.com/mikko/status/864110940781936641][Tweet von @mikko]])
