@@ -32,6 +32,13 @@ Daten gelöscht.
 It tries to run @WanaDecryptor@.exe to obtain the new BTC address, but
 @WanaDecryptor@.exe isn't copied from u.wnry until later
 #+END_QUOTE
+
+** Tor
+   Vermutlich im Zusammenhang mit den Ermittlungen wurden wurden diverse
+   Tor-Server beschlagnahmt. Auf der Mailingliste [[https://lists.torproject.org/cgi-bin/mailman/listinfo/tor-relays][tor-relays]] schrieb eine
+   Person, dass deren Tor-Server [[https://lists.torproject.org/pipermail/tor-relays/2017-May/012281.html][kitten1 und kitten2]] am 14. Mai 2017 gegen 11
+   Uhr beschlagnahmt wurden. Ein [[https://www.nextinpact.com/news/104302-wannacrypt-nuds-tor-saisis-par-autorites-francaises.htm][Artikel bei Nextinpact spekuliert]], dass dies im
+   Zusammenhang mit Ermittlungen der [[https://fr.wikipedia.org/wiki/Office_central_de_lutte_contre_la_criminalit%25C3%25A9_li%25C3%25A9e_aux_technologies_de_l%2527information_et_de_la_communication][OCLCTIC]] geschehen sein könnte.
 ** Attribution
    Verschiedene Leute versuchen herauszufinden, woher die Schadsoftware
    stammt. Folgende Hinweise gibt es bisher.
