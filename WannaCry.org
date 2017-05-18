@@ -60,6 +60,11 @@ It tries to run @WanaDecryptor@.exe to obtain the new BTC address, but
     Einige Forscher [[http://www.darkreading.com/attacks-breaches/researchers-investigate-possible-connection-between-wannacry-and-north-korean-hacker-group/d/d-id/1328885][vermuten]] die Lazarus Group, eine Gruppe aus Nordkorea,
     hinter den Angriffen. Sie fanden [[https://twitter.com/msuiche/status/864179805402607623][Gleichheiten im Code]]. Der [[https://securelist.com/blog/research/78431/wannacry-and-lazarus-group-the-missing-link/][Blogpost]]
     beschreibt nochmals den Code und Hintergründe der Lazarus Group.
+** Betroffene Organisation und Unternehmen
+*** Bayer
+    Laut einem [[https://www.forbes.com/sites/thomasbrewster/2017/05/17/wannacry-ransomware-hit-real-medical-devices/#6f4f639c425c][Bericht von Forbes]] gab es in einem US-amerikanischen Krankenhaus
+    einen Befall mit der Schadsoftware. Das betraf ein Gerät von Bayer
+    Medrad. Ein Sprecher bestätigte, dass es bis dato zwei Meldungen gibt.
 ** Linksammlung
    - [[https://blog.didierstevens.com/2017/05/14/quickpost-wannacrys-mutex-is-mswinzonescachecountermutexa0-digit-zero-at-the-end/][Quickpost: WannaCry’s Mutex Is MsWinZonesCacheCounterMutexA0 (Digit Zero At The End)]]
    - [[https://pbs.twimg.com/media/C_3vTVVXYAIm3QY.jpg:large][Timeline der Ransomware-Varianten]] (aus einem [[https://twitter.com/mikko/status/864110940781936641][Tweet von @mikko]])
